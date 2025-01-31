@@ -176,7 +176,7 @@ python SynergyAI_demo.py
 
 执行过程的日志输出与最终的优化文档输出。
 
-**补充说明**：由于`GitHub Models`中的上下文限制过少，`Deepseek`春节期间线上服务又受到大规模恶意攻击，最终是使用的是`Qwen/Qwen2.5-32B-Instruct`执行的demo，可以看到效果也不错。
+**补充说明**：由于`GitHub Models`中的上下文限制过少，`Deepseek`春节期间线上服务又受到大规模恶意攻击导致API总是不可用，最终是使用的是`Qwen/Qwen2.5-32B-Instruct`执行的demo，可以看到效果也不错。
 
 ```bash
 PS D:\Vincent\dev\AI_4_creative\SynergyAI> python .\SynergyAI_demo.py
